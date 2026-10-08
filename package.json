@@ -1,0 +1,11 @@
+{
+  "name": "block-build-world",
+  "version": "1.0.0",
+  "description": "A simple Node.js app",
+  "main": "main.html",
+  "scripts": {
+    "start": "main.js"
+  },
+  "author": "donmharp",
+  "license": "ISC"
+}
